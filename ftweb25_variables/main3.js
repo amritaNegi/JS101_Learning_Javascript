@@ -1,0 +1,10 @@
+console.log("𝓡𝓔𝓟𝓞𝓡𝓣 𝓒𝓐𝓡𝓓");
+console.log("𝑵𝒂𝒎𝒆  𝑨𝒎𝒓𝒊𝒕𝒂 𝑵𝒆𝒈𝒊");
+console.log("𝑺𝒄𝒉𝒐𝒐𝒍  𝑴𝒂𝒔𝒂𝒊 𝑺𝒄𝒉𝒐𝒐𝒍");
+console.log("𝑹𝒐𝒍𝒍 𝒏𝒐.  25");
+console.log("𝑺𝒆𝒄𝒕𝒊𝒐𝒏  𝑩");
+console.log("𝙎𝙪𝙗𝙟𝙚𝙘𝙩𝙨");
+console.log("𝐄𝐧𝐠𝐥𝐢𝐬𝐡  𝟖𝟎");
+console.log("𝐌𝐚𝐭𝐡  𝟕𝟓");
+console.log("𝐒𝐜𝐢𝐞𝐧𝐜𝐞  𝟖𝟓");
+console.log("𝑮𝒓𝒂𝒅𝒆  𝑨+");
